@@ -1,0 +1,50 @@
+.roomCard {
+  display: flex;
+  justify-content: flex-start;
+  width: auto;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.imgroom img {
+  height: 240px;
+  margin-right: 50px;
+}
+
+.contents {
+  padding: 0;
+  width: 100%;
+}
+
+.text {
+  text-align: left;
+  padding-left: 50px;
+}
+
+.buttons {
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.price {
+  color: #09af40;
+  display: flex;
+  justify-content: flex-start;
+  /* border: 2px solid black; */
+  /* font-size: 22px; */
+  padding: 0px;
+}
+
+.book-btn {
+  padding: 7px 30px;
+  background-color: #09af40;
+  outline: none;
+  font-size: 22px;
+  border-radius: 3px;
+  color: white;
+  margin-bottom: 5px;
+}

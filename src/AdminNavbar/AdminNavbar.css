@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    border: 1px #E9EBED solid;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #F3F5F7;
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: black;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+}
+
+.other-headers {
+    display: flex;
+    /* border: 2px black solid; */
+    justify-content: space-between;
+}
+
+.boxes {
+    padding: 17px;    
+}

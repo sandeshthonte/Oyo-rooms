@@ -1,0 +1,78 @@
+.searchbar {
+  box-shadow: 0 2px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+  opacity: 0.9;
+  padding: 10px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.imglogo img {
+  height: 60px;
+}
+
+.boxes .Link {
+  text-decoration: none;
+  color: black;
+}
+
+.actual-searchbar {
+  padding: 10px;
+  /* border: 1.5px #D6D6D6 solid; */
+  border-radius: 5px;
+}
+
+.search-fields {
+  padding: 16px;
+  outline: none;
+  font-size: 22px;
+  border: 1.5px #d6d6d6 solid;
+  border-radius: 4px;
+}
+
+.search-fields-date {
+  padding: 12px;
+  outline: none;
+  font-size: 22px;
+  width: 140px;
+  border: 1.5px #d6d6d6 solid;
+  border-radius: 4px;
+}
+
+/* .auto-suggest {
+  padding: 10px 8px;
+  list-style: none;
+  overflow-y: auto;
+  border: 1.5px #d6d6d6 solid;
+  display: none;
+} */
+
+.auto-suggest hover {
+  background-color: #efefef;
+  padding: 10px;
+}
+
+.auto-suggest {
+  padding: 10px;
+  list-style: none;
+  font-size: 22px;
+  /* display: none; */
+}
+
+.search-fields-btn {
+  padding: 14px 40px;
+  background-color: #09af40;
+  outline: none;
+  font-size: 22px;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.location-search-input {
+  outline: none;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 3px;
+  outline: none;
+}

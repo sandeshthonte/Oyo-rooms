@@ -1,0 +1,30 @@
+*{
+    /* font-size: 22px; */
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.imglogo img{
+    height: 60px;
+}
+
+.other-headers {
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+.boxes {
+    border: 1px #E9EBED solid;
+    padding: 17px;    
+}
+
+.boxes .Link {
+    text-decoration: none;    
+    color: black;
+}
